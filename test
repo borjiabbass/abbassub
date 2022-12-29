@@ -1,0 +1,13 @@
+{
+  "v": "2",
+  "ps": "DE-farajian",
+  "add": "chita-ws.cf",
+  "port": 10229,
+  "id": "1d22a345-c77a-4abf-89fc-fa96c325d869",
+  "aid": 0,
+  "net": "ws",
+  "type": "none",
+  "host": "",
+  "path": "/",
+  "tls": "none"
+}
